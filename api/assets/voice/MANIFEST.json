@@ -1,0 +1,137 @@
+[
+  {
+    "key": "RED_nsq",
+    "lang": "en",
+    "text": "Do not consume. Show this result to a pharmacist. Keep the packaging.",
+    "engine": "edge-tts",
+    "voice": "en-IN-NeerjaNeural",
+    "duration_s": 7.33,
+    "bytes": 18072
+  },
+  {
+    "key": "RED_nsq",
+    "lang": "hi",
+    "text": "इसे न खाएँ। यह नतीजा फ़ार्मासिस्ट को दिखाएँ। पैकेट संभालकर रखें।",
+    "engine": "edge-tts",
+    "voice": "hi-IN-SwaraNeural",
+    "duration_s": 8.48,
+    "bytes": 20903
+  },
+  {
+    "key": "RED_nsq",
+    "lang": "kn",
+    "text": "ಇದನ್ನು ಸೇವಿಸಬೇಡಿ. ಈ ಫಲಿತಾಂಶವನ್ನು ಔಷಧಿಕಾರರಿಗೆ ತೋರಿಸಿ. ಪ್ಯಾಕೆಟ್ ಜೋಪಾನವಾಗಿ ಇಟ್ಟುಕೊಳ್ಳಿ.",
+    "engine": "edge-tts",
+    "voice": "kn-IN-SapnaNeural",
+    "duration_s": 8.62,
+    "bytes": 22959
+  },
+  {
+    "key": "RED_escalated",
+    "lang": "en",
+    "text": "Do not consume. This pack shows signs of tampering or inconsistency. Keep the packaging and report it.",
+    "engine": "edge-tts",
+    "voice": "en-IN-NeerjaNeural",
+    "duration_s": 9.51,
+    "bytes": 24107
+  },
+  {
+    "key": "RED_escalated",
+    "lang": "hi",
+    "text": "इसे न खाएँ। इस पैक में छेड़छाड़ या गड़बड़ी के संकेत हैं। पैकेट रखें और रिपोर्ट करें।",
+    "engine": "edge-tts",
+    "voice": "hi-IN-SwaraNeural",
+    "duration_s": 9.75,
+    "bytes": 23784
+  },
+  {
+    "key": "RED_escalated",
+    "lang": "kn",
+    "text": "ಇದನ್ನು ಸೇವಿಸಬೇಡಿ. ಈ ಪ್ಯಾಕ್‌ನಲ್ಲಿ ಬದಲಾವಣೆ ಅಥವಾ ಅಸಂಗತಿಯ ಸೂಚನೆಗಳಿವೆ. ಪ್ಯಾಕೆಟ್ ಇಟ್ಟುಕೊಂಡು ವರದಿ ಮಾಡಿ.",
+    "engine": "edge-tts",
+    "voice": "kn-IN-SapnaNeural",
+    "duration_s": 9.27,
+    "bytes": 24666
+  },
+  {
+    "key": "EXPIRED",
+    "lang": "en",
+    "text": "Do not use — this pack has expired. Dispose of it safely. No report needed unless you also suspect tampering.",
+    "engine": "edge-tts",
+    "voice": "en-IN-NeerjaNeural",
+    "duration_s": 10.42,
+    "bytes": 26974
+  },
+  {
+    "key": "EXPIRED",
+    "lang": "hi",
+    "text": "इसका उपयोग न करें — यह दवा एक्सपायर हो चुकी है। इसे सुरक्षित तरीके से फेंक दें।",
+    "engine": "edge-tts",
+    "voice": "hi-IN-SwaraNeural",
+    "duration_s": 8.5,
+    "bytes": 22382
+  },
+  {
+    "key": "EXPIRED",
+    "lang": "kn",
+    "text": "ಇದನ್ನು ಬಳಸಬೇಡಿ — ಈ ಔಷಧದ ಅವಧಿ ಮುಗಿದಿದೆ. ಸುರಕ್ಷಿತವಾಗಿ ವಿಲೇವಾರಿ ಮಾಡಿ.",
+    "engine": "edge-tts",
+    "voice": "kn-IN-SapnaNeural",
+    "duration_s": 7.04,
+    "bytes": 19199
+  },
+  {
+    "key": "AMBER",
+    "lang": "en",
+    "text": "Don't discard yet — confirm with your pharmacist before use.",
+    "engine": "edge-tts",
+    "voice": "en-IN-NeerjaNeural",
+    "duration_s": 5.05,
+    "bytes": 13748
+  },
+  {
+    "key": "AMBER",
+    "lang": "hi",
+    "text": "अभी फेंकें नहीं — इस्तेमाल से पहले अपने फ़ार्मासिस्ट से पुष्टि करें।",
+    "engine": "edge-tts",
+    "voice": "hi-IN-SwaraNeural",
+    "duration_s": 6.39,
+    "bytes": 17172
+  },
+  {
+    "key": "AMBER",
+    "lang": "kn",
+    "text": "ಇನ್ನೂ ಎಸೆಯಬೇಡಿ — ಬಳಸುವ ಮೊದಲು ನಿಮ್ಮ ಔಷಧಿಕಾರರೊಂದಿಗೆ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.",
+    "engine": "edge-tts",
+    "voice": "kn-IN-SapnaNeural",
+    "duration_s": 5.5,
+    "bytes": 15687
+  },
+  {
+    "key": "GREEN",
+    "lang": "en",
+    "text": "No warnings found in our records. This does not confirm authenticity — always buy from a licensed pharmacy.",
+    "engine": "edge-tts",
+    "voice": "en-IN-NeerjaNeural",
+    "duration_s": 9.03,
+    "bytes": 24365
+  },
+  {
+    "key": "GREEN",
+    "lang": "hi",
+    "text": "हमारे रिकॉर्ड में कोई चेतावनी नहीं मिली। इसका मतलब असली होना पक्का नहीं है — हमेशा लाइसेंसशुदा फ़ार्मेसी से ही खरीदें।",
+    "engine": "edge-tts",
+    "voice": "hi-IN-SwaraNeural",
+    "duration_s": 11.12,
+    "bytes": 30223
+  },
+  {
+    "key": "GREEN",
+    "lang": "kn",
+    "text": "ನಮ್ಮ ದಾಖಲೆಗಳಲ್ಲಿ ಯಾವುದೇ ಎಚ್ಚರಿಕೆ ಕಂಡುಬಂದಿಲ್ಲ. ಇದು ಅಸಲಿ ಎಂದು ಖಚಿತಪಡಿಸುವುದಿಲ್ಲ — ಯಾವಾಗಲೂ ಪರವಾನಗಿ ಪಡೆದ ಔಷಧಾಲಯದಿಂದ ಖರೀದಿಸಿ.",
+    "engine": "edge-tts",
+    "voice": "kn-IN-SapnaNeural",
+    "duration_s": 9.34,
+    "bytes": 27563
+  }
+]
