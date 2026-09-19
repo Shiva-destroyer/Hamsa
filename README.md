@@ -24,7 +24,7 @@
 
 [![Watch the 2-minute overview of Hamsa](docs/video/hamsa-overview-poster.jpg)](https://shiva-destroyer.github.io/Hamsa/video/)
 
-**[▶ Watch the video in your browser](https://shiva-destroyer.github.io/Hamsa/video/)** · MP4 file: [`docs/video/hamsa-overview.mp4`](docs/video/hamsa-overview.mp4)
+**[▶ Watch the video in your browser](https://shiva-destroyer.github.io/Hamsa/video/)**
 
 *Narrated walkthrough: the problem, a live WhatsApp reply, the evidence rules, the photo check, the real CDSCO data, and the limits stated plainly. Captions are on screen; the narration is synthetic text-to-speech.*
 
