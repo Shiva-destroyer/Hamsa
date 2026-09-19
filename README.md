@@ -20,9 +20,17 @@
 
 ---
 
+## Watch the 2-minute overview
+
+[![Watch the 2-minute overview of Hamsa](docs/video/hamsa-overview-poster.jpg)](docs/video/hamsa-overview.mp4)
+
+*Narrated walkthrough: the problem, a live WhatsApp reply, the evidence rules, the photo check, the real CDSCO data, and the limits stated plainly. Captions are on screen; the narration is synthetic text-to-speech. Direct link: [`docs/video/hamsa-overview.mp4`](docs/video/hamsa-overview.mp4).*
+
+---
+
 ## Contents
 
-[Problem](#the-problem) · [Solution](#the-solution) · [A conversation](#a-conversation-with-hamsa) · [How verdicts work](#how-a-verdict-is-decided) · [What is different](#what-is-different) · [Architecture](#architecture) · [Real data](#real-data) · [Privacy and security](#privacy-and-security) · [Quality](#quality-and-verification) · [Getting started](#getting-started) · [Try it](#try-it) · [Deployment](#deployment-and-scaling) · [Impact](#impact-and-sustainability) · [Limitations](#limitations) · [Roadmap](#roadmap) · [Repository](#repository-layout)
+[Video](#watch-the-2-minute-overview) · [Problem](#the-problem) · [Solution](#the-solution) · [A conversation](#a-conversation-with-hamsa) · [How verdicts work](#how-a-verdict-is-decided) · [What is different](#what-is-different) · [Architecture](#architecture) · [Real data](#real-data) · [Privacy and security](#privacy-and-security) · [Quality](#quality-and-verification) · [Getting started](#getting-started) · [Try it](#try-it) · [Deployment](#deployment-and-scaling) · [Impact](#impact-and-sustainability) · [Limitations](#limitations) · [Roadmap](#roadmap) · [Repository](#repository-layout)
 
 ---
 
@@ -395,6 +403,7 @@ Hamsa/
 ├── supabase/               schema, synthetic seed, migrations, demo fixups
 ├── data/                   synthetic dataset (CSV), real CDSCO rows and source PDFs, data docs
 ├── docs/                   setup, deployment, architecture, privacy, limitations, original PRD
+│   └── video/              2-minute narrated overview (MP4) and its poster
 ├── docker-compose.yml      local PostgreSQL 16
 ├── Makefile                install · db · real-data · test · rehearse · run
 └── LICENSE                 MIT
