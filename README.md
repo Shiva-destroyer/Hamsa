@@ -22,9 +22,11 @@
 
 ## Watch the 2-minute overview
 
-[![Watch the 2-minute overview of Hamsa](docs/video/hamsa-overview-poster.jpg)](docs/video/hamsa-overview.mp4)
+[![Watch the 2-minute overview of Hamsa](docs/video/hamsa-overview-poster.jpg)](https://shiva-destroyer.github.io/Hamsa/video/)
 
-*Narrated walkthrough: the problem, a live WhatsApp reply, the evidence rules, the photo check, the real CDSCO data, and the limits stated plainly. Captions are on screen; the narration is synthetic text-to-speech. Direct link: [`docs/video/hamsa-overview.mp4`](docs/video/hamsa-overview.mp4).*
+**[▶ Watch the video in your browser](https://shiva-destroyer.github.io/Hamsa/video/)** · MP4 file: [`docs/video/hamsa-overview.mp4`](docs/video/hamsa-overview.mp4)
+
+*Narrated walkthrough: the problem, a live WhatsApp reply, the evidence rules, the photo check, the real CDSCO data, and the limits stated plainly. Captions are on screen; the narration is synthetic text-to-speech.*
 
 ---
 
@@ -403,7 +405,7 @@ Hamsa/
 ├── supabase/               schema, synthetic seed, migrations, demo fixups
 ├── data/                   synthetic dataset (CSV), real CDSCO rows and source PDFs, data docs
 ├── docs/                   setup, deployment, architecture, privacy, limitations, original PRD
-│   └── video/              2-minute narrated overview (MP4) and its poster
+│   └── video/              2-minute narrated overview: MP4, poster and the Pages player page
 ├── docker-compose.yml      local PostgreSQL 16
 ├── Makefile                install · db · real-data · test · rehearse · run
 └── LICENSE                 MIT
