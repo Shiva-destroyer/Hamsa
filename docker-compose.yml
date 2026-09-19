@@ -1,0 +1,14 @@
+# Local development database (PostgreSQL 16). Credentials are for local use only.
+services:
+  db:
+    image: postgres:16
+    container_name: hamsa-pg
+    environment:
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - hamsa-pgdata:/var/lib/postgresql/data
+
+volumes:
+  hamsa-pgdata:

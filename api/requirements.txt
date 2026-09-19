@@ -1,0 +1,22 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+httpx>=0.27
+psycopg[binary]>=3.1
+python-dotenv>=1.0
+rapidfuzz>=3.6
+pytesseract>=0.3.10        # needs the tesseract binary: sudo apt install tesseract-ocr / brew install tesseract
+opencv-python-headless>=4.9
+pillow>=10.2
+numpy>=1.26
+zxing-cpp>=2.2         # QR + DataMatrix decoding (vision.py) and DataMatrix demo packs
+qrcode>=7.4                # only for scripts/make_demo_packs.py
+edge-tts>=6.1              # only for scripts/gen_voice.py (pre-generates the voice notes; needs ffmpeg binary)
+pytest>=8.0
+PyJWT>=2.8               # regulator login (15-minute JWT)
+APScheduler>=3.10        # retention / ingest jobs when ENABLE_SCHEDULER=1
+pdfplumber>=0.11         # real CDSCO NSQ PDF ingestion (ingest/, scripts/load_real_nsq.py)
+requests>=2.31           # NSQ PDF download in ingest/
+python-multipart>=0.0.9  # FastAPI form/file upload parsing
+gTTS>=2.5                # fallback TTS engine for scripts/gen_voice.py if edge-tts is blocked
+torch>=2.9                 # Florence-2 text reader (florence.py). CPU build: pip install torch --index-url https://download.pytorch.org/whl/cpu
+transformers>=5.0          # native Florence2 support; weights (~470 MB) download from Hugging Face on first run, then cached

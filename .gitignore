@@ -1,0 +1,31 @@
+# secrets and local config
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.egg-info/
+.coverage
+htmlcov/
+
+# runtime and generated files
+api/uploads/
+*.log
+nohup.out
+api/assets/packs/cells/
+data/real/nsq_real_staging.csv
+data/real/spotcheck.md
+
+# editors and OS
+.claude/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+node_modules/
