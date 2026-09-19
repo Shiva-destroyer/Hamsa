@@ -1,0 +1,39 @@
+source_document,page,product_name,batch_number,manufacturer,mfg_date,expiry_date,reject_reasons
+CDSCO_NSQ_ALERT_FOR_THE_MONTH_OF_APRIL-2025.pdf,4,Ampicillin Sodium Injection I.P. (AMPIVEE- 500 Injection),TGDI08231904,T & G Medicare,8/2023,07/2025,guard: batch not found in page text
+CDSCO_NSQ_june25.pdf,2,Docetaxel Anhydrous IP,DXT202412040,Sanghai Jinhe Bio-Pharmaceutical Co. Ltd.,12/2024,12/2026,guard: batch not found in page text
+CDSCO_NSQ_june25.pdf,3,"Vitamin C Injection IP and Vitamin B12, Folic Acid and Niacinamide Injection (Eldervit-12 Injection )","B.no:IEW1480C,IEW-1480B",E.G.Pharmaceuticals,09/2024,08/2026,batch cell holds multiple/unparseable batches
+CDSCO_NSQ_june25.pdf,3,"Vitamin C Injection IP and Vitamin B12, Folic Acid and Niacinamide Injection (Eldervit-12 Injection )","B.no:IEW-1487C,IEW-1487B",E.G.Pharmaceuticals,0 9 /2024,08/2026,batch cell holds multiple/unparseable batches
+NSQ_ALERT_MAY-2025.pdf,5,Azithromycin Tablets IP 250 mg (RICK-250 TABLETS),Notmentioned,Paradox Pharmaceuticals,NM,NM,batch number not stated in document; manufacturing date does not parse ('NM'); expiry date does not parse ('NM'); guard: batch not found in page text
+NSQ_ALERT_MAY-2025.pdf,5,Amoxycillin and Potassium Clavulanate Tablets IP (Rumentin-625 Tablets),RUM2411002,Rextuse Pharmaceuticals,11/2024,10/2026,guard: batch not found in page text
+NSQ_ALERT_MAY-2025.pdf,6,Injection Oxytocin Vet. 100 ml Vial,Notmentioned,Not mentioned,NM,NM,batch number not stated in document; manufacturing date does not parse ('NM'); expiry date does not parse ('NM'); guard: batch not found in page text
+NSQ_ALERT_MAY-2025.pdf,6,Injection Oxytocin Vet. 50 ml Vial,Notmentioned,Not mentioned,NM,NM,batch number not stated in document; manufacturing date does not parse ('NM'); expiry date does not parse ('NM'); guard: batch not found in page text
+NSQ_ALERT_MAY-2025.pdf,7,Betahistine Dihydrochloride Tablet I.P (CGHEST-8),CT24250284A,CMG Biotech Pvt. Ltd,05/2024,04/2026,guard: batch not found in page text
+STATE_NSQ_June_-2025.pdf,4,Ibuprofen Tablets IP 400 mg,"270524-BKN13,",Biogenetic Drugs Pvt. Ltd.,May-24,Apr-26,batch cell holds multiple/unparseable batches
+STATE_NSQ_June_-2025.pdf,7,Pantoprazole Sodium IP Tablets 40mg (Lepan 40),SPT-1134,Sheen Pharmaceuticals Wariana Industrial Complex-144021 Mkt by: Lebon Pharmaceuticals,Dec-24,Nov-26,manufacturer cell names several parties (manufacturer/marketer); not attributed
+STATE_NSQ_June_-2025.pdf,8-9,Fluoxetine Capsules IP 20mg (Floxros-20 Capsules),SC-24286,For Maxford Healthcare by Stafford Laboratories Pvt. Ltd.,Dec-24,Nov-26,manufacturer cell names several parties (manufacturer/marketer); not attributed
+STATE_NSQ_June_-2025.pdf,9,Cifdoz-500 (Ciprofloxacin Hydrochloride Tablets IP),APGT24513,Alpex Pharma Pvt. Ltd.,Jul-27,Jun-26,expiry date precedes manufacturing date
+STATE_NSQ_June_-2025.pdf,9,Mecobalamin 2500mg. (NEROSAFE-XL),324-80,Mft. by Not Mentioned Mkd. By M/s Safe Care Life Sciences,Jul-24,May-26,manufacturer cell names several parties (manufacturer/marketer); not attributed
+STATE_NSQ_June_-2025.pdf,10,Moxifloxacin 10% Injection (MOX-4TH GEN),SL1220-21,Mft. by Not Mentioned Mkd. By M/s Safe Care Life Sciences,Jan-24,Dec-26,manufacturer cell names several parties (manufacturer/marketer); not attributed
+STATE_NSQ_June_-2025.pdf,10,Mec obalamin (Neocobal 0.5mg Tablets),7805,Pulse Pharmaceuticals (Pvt.) Ltd.,NM,Feb-26,manufacturing date does not parse ('NM')
+STATE_NSQ_June_-2025.pdf,11,Leof enac-TH4 Tablets Aceclofenac & Thiocolchicoside tabets,T 2 5 - 0 5 4,. O a k s u n L i f e s c i e n c e s,F e b - 2 5,J a n - 2 7,manufacturer: character-spaced text extraction artefact
+STATE_NSQ_June_-2025.pdf,11-12,PYR IL-650 Tablets Paracetamol Tablets IP 650 mg,T 2 5 . 0 3 9,. O a k s u n L i f e s c i e n c e s,F e b - 2 5,J a n - 2 7,manufacturer: character-spaced text extraction artefact
+STATE_NSQ_June_-2025.pdf,12,VCE C-P Tablets Aceclofenac and Paracetamol Tablets,T G 2 4 - 2 0 2 8 C,A t h e n s L i f e S c i e n c e s M a u z a Rampur,S e p - 2 4,A u g - 2 6,manufacturer: character-spaced text extraction artefact; batch_number: character-spaced text extraction artefact
+STATE_NSQ_June_-2025.pdf,14,EBD ORS(Oral Rehydration Salts IP),825220,Mfg. by- M/s Syndicate Pharma,02/2025,01/2027,manufacturer cell names several parties (manufacturer/marketer); not attributed
+STATE_NSQ_MAY-2025.pdf,10,"Trypsin, Bromelain, Rutoside, Trihydrate & Diclofenac Tablets (RUMIHEAL-D)",SRTF240703B,Systole Remedies Pvt. Ltd.,Jun-24,,expiry date does not parse ('')
+STATE_NSQ_MAY-2025.pdf,15,Bold enone Undecylenate Injection 400mg/ml (VEBOLDEX 400),TST2301,Thaiger Pharma,Not Mentioned,Apr-27,manufacturing date does not parse ('Not Mentioned')
+STATE_NSQ_MAY-2025.pdf,16,Tren bolone Enanthate Injection 200mg/ml (FINAREX 200),TST2301,Thaiger Pharma,Not Mentioned,Apr-27,manufacturing date does not parse ('Not Mentioned')
+STATE_NSQ_MAY-2025.pdf,16,Tren bolone Acetate Injection 100mg/ml... (FINEXAL 100),TST2301,Thaiger Pharma,Not Mentioned,Apr-27,manufacturing date does not parse ('Not Mentioned')
+STATE_NSQ_MAY-2025.pdf,16,Stan ozolol Injection 100mg/ml (VENAJECT),TST2301,Thaiger Pharma,Not Mentioned,Apr-27,manufacturing date does not parse ('Not Mentioned')
+STATE_NSQ_MAY-2025.pdf,16,Nan drolone Blend Injection 350mg/ml (DEXADUR),TST2301,Thaiger Pharma,Not Mentioned,Apr-27,manufacturing date does not parse ('Not Mentioned')
+stnsqapr25.pdf,4,Ambroxol Hydrochloride Syrup,724543,By: Syndicate Pharma,Nov-24,Oct-26,manufacturer cell names several parties (manufacturer/marketer); not attributed
+stnsqapr25.pdf,5,Kelan Soap(Ketoconazole Meidcated Soap),8091,Vimson Derma,Oct-26,Sep-26,expiry date precedes manufacturing date
+stnsqapr25.pdf,6,Bisacodyl Tablets Ip 5mg,TA24366,Saintlife Pharmaceuticals Ltd,Jun-42,Apr-26,expiry date precedes manufacturing date
+stnsqapr25.pdf,11,Mamaearth Vitamin C daily glow light moisturising cream,AM4J160,VA Life sciences,Oct-24,Use before 24 Months from the date Mfg.,expiry date does not parse ('Use before 24 Months from the date Mfg.')
+stnsqapr25.pdf,12,Telmisartan Tab IP 40 mg,D0004/25-26,Kerala Medical services Corporation Limited,NIL,NIL,manufacturing date does not parse ('NIL'); expiry date does not parse ('NIL')
+stnsqapr25.pdf,12,Paracetamol Tab IP 500 mg,D 0001/25-26,Kerala Medical services Corporation Limited,NIL,NIL,manufacturing date does not parse ('NIL'); expiry date does not parse ('NIL')
+stnsqapr25.pdf,12,Gentamicin Inj. IP,D0003/25-26,Kerala Medical services Corporation Limited,NIL,NIL,manufacturing date does not parse ('NIL'); expiry date does not parse ('NIL')
+stnsqapr25.pdf,16,Kop lyco Syrup,TL-6337,Ticoma Pharmacia E-17 Industrial Focal Point Debrabassi,Jun-23,May-23,expiry date precedes manufacturing date
+STATE_NSQ_June_-2025.pdf,9,Zinc Sulphate Dispersible Tablets IP (N/A),MT14501,McW Healthcare (P) Ltd.,Apr-25,Mar-27,"duplicate of (batch, manufacturer, alert_date) already accepted"
+STATE_NSQ_MAY-2025.pdf,2,Axid 200 (Sucralfate Oral Suspension),624-470,Zee Laboratories Ltd,Jun-24,May-26,"duplicate of (batch, manufacturer, alert_date) already accepted"
+STATE_NSQ_MAY-2025.pdf,10,Dapagliflozin Tablets IP (DAPAWOHN),HT2406181,Helax Healthcare Private Limited,Jun-24,May-26,"duplicate of (batch, manufacturer, alert_date) already accepted"
+stnsqapr25.pdf,3,"Albendazole Tablet IP 400 mg,",C25F944019,Concept Pharmaceuticals Ltdm,Jun-24,May-26,"duplicate of (batch, manufacturer, alert_date) already accepted"

@@ -1,0 +1,127 @@
+id,product_code,brand_name,generic_name,manufacturer,manufacturer_alias_group_id,licence_number,created_at
+07c9570a-6702-40c2-861d-cdf4f07c280b,8904276537502,Dolo 650,Paracetamol (650mg Tablet),Micro Labs Ltd.,cca5ab25-2d2b-470d-82e6-30b61329d316,KL/DL/2023/48328,2025-09-16T20:52:00
+ed86899e-255e-42f9-820b-00d157897655,8906113462677,Calpol 650,Paracetamol (650mg Tablet),GlaxoSmithKline Pharmaceuticals Ltd.,1090101c-4e71-4110-ac55-639c9f163565,HR/DL/2020/38862,2025-06-23T16:50:00
+54b15a61-0206-44f0-9abe-fdd4c4e240ca,8907573869302,Azee 500,Azithromycin (500mg Tablet),Cipla Ltd.,df67d6c5-2638-454d-b429-fdb7e4ea662b,RJ/DL/2017/68158,2025-10-22T14:49:00
+b9628ac0-cfc2-458b-b800-d94f0736feda,8901442334331,Azithral 500,Azithromycin (500mg Tablet),Alembic Pharmaceuticals Ltd.,9e432bc2-e1d4-49dd-8e4f-f7a9ce132a71,KL/DL/2025/38767,2025-11-17T10:02:00
+77a2bd14-8076-49b4-8c11-5f840f41925f,8901707467197,Augmentin 625 Duo,Amoxicillin + Clavulanic Acid (625mg Tablet),GlaxoSmithKline Pharmaceuticals Ltd.,1090101c-4e71-4110-ac55-639c9f163565,MP/DL/2020/60338,2025-05-21T15:13:00
+2524c8d3-bfa9-4292-b23b-3eed5d3e3b48,8901402727471,Moxikind-CV 625,Amoxicillin + Clavulanic Acid (625mg Tablet),Mankind Pharma Ltd.,561e419f-26df-44e7-9088-99098624c126,TG/DL/2021/49578,2025-08-02T19:17:00
+4c6670ad-d68b-46fc-9759-727889e2aca4,8902941165461,Pantocid 40,Pantoprazole (40mg Tablet),Sun Pharmaceutical Industries Ltd.,250bd61a-1633-44d4-8aa7-b033fbe874f6,HR/DL/2020/21091,2025-04-18T10:09:00
+11a57632-e655-4a9f-901f-82f4d6b7664d,8904520635707,Pan 40,Pantoprazole (40mg Tablet),Alkem Laboratories Ltd.,2ccdd6a4-340f-475d-9a95-cdbae4d8a558,TG/DL/2016/11748,2025-12-23T15:20:00
+42f70bac-70c8-419a-b259-f540379705e6,8900151108194,Glycomet 500,Metformin Hydrochloride (500mg Tablet),USV Pvt. Ltd.,6ac1f6be-9a1e-4b53-93e7-03279f20b30c,AP/DL/2015/53337,2025-06-24T12:05:00
+089b139d-a845-453a-8239-b06510591b5c,8904196790188,Storvas 10,Atorvastatin Calcium (10mg Tablet),Sun Pharmaceutical Industries Ltd.,250bd61a-1633-44d4-8aa7-b033fbe874f6,GJ/DL/2024/16912,2025-12-17T10:41:00
+98c7fd54-0770-44db-8052-513020e134fd,8909937337915,Telma 40,Telmisartan (40mg Tablet),Glenmark Pharmaceuticals Ltd.,f3b10dbd-dc3a-4f40-a4cc-4fa0a180b9ca,DL/DL/2016/79420,2025-02-25T06:13:00
+86fb023f-3052-4901-960e-901d317a3e40,8909807559534,Amlopres 5,Amlodipine Besylate (5mg Tablet),Cipla Ltd.,df67d6c5-2638-454d-b429-fdb7e4ea662b,DL/DL/2012/50714,2025-04-16T18:07:00
+c692a4df-58f2-4db3-9a68-11d44155d9cb,8901936426455,Cetzine,Cetirizine Hydrochloride (10mg Tablet),Glenmark Pharmaceuticals Ltd.,f3b10dbd-dc3a-4f40-a4cc-4fa0a180b9ca,RJ/DL/2023/54983,2025-08-15T08:58:00
+60400ca5-3cfa-40d0-a317-6ab75f5f2d88,8905458944388,Combiflam,Ibuprofen + Paracetamol (400mg/325mg Tablet),Sanofi India Ltd.,d76b50cd-41fd-49ee-849b-a3cd7c058bc4,BR/DL/2018/37130,2025-08-18T10:19:00
+5711006f-b845-48f4-a650-0697f74d366c,8900707956726,Omez 20,Omeprazole (20mg Capsule),Dr. Reddy's Laboratories Ltd.,37481ea9-0e75-43d4-bc2e-e6009256b9eb,GJ/DL/2023/33915,2025-03-28T11:12:00
+0227b702-3726-45d8-8634-3d72bed5b796,8908996591367,AmlodHeal 5,Amlodipine Besylate (5mg Tablet),Ajanta Pharma Ltd.,986b9464-8658-496f-a682-4a9b7cc039ef,DL/DL/2020/46524,2025-06-16T08:55:00
+33ba09c3-bcd2-42bc-b491-f221aa3ea732,8901092721721,CetirGen 10,Cetirizine Hydrochloride (10mg Tablet),Biocon Ltd.,ae0d6b00-5002-4238-a54b-b691292655ff,PB/DL/2012/83558,2025-12-27T11:45:00
+c0153bef-2842-4ed0-bd94-5a68b11e184f,8907130711211,AmoxiCip 625,Amoxicillin + Clavulanic Acid (625mg Tablet),J.B. Chemicals & Pharmaceuticals Ltd.,bd810d11-d8d5-4d57-acad-03bed4c4a72e,AP/DL/2021/39152,2025-02-06T07:12:00
+02a4393c-2764-4f21-b96f-5e3f6d563207,8903532527174,DoxycHeal 100,Doxycycline Hyclate (100mg Capsule),Zydus Lifesciences Ltd.,adc72991-8c10-4f7c-9927-ae89297b7174,UP/DL/2020/28507,2025-12-22T18:46:00
+5143ccea-896c-4374-829e-b2f75bdba54a,8903280387266,IbuprHeal 400,Ibuprofen (400mg Tablet),Dr. Reddy's Laboratories Ltd.,37481ea9-0e75-43d4-bc2e-e6009256b9eb,AP/DL/2019/76586,2025-01-09T18:22:00
+13780993-16d5-494f-953d-5ed040378246,8908234464910,OmeprGen 20,Omeprazole (20mg Capsule),Ipca Laboratories Ltd.,7ebaa025-6f09-413c-a126-597e272c1ef3,DL/DL/2013/75723,2025-03-16T11:56:00
+a1c57ddb-a6d7-4303-bbad-a49f47cea003,8900001499706,MultiPlus,Multivitamin + Multimineral (Tablet),Micro Labs Ltd.,cca5ab25-2d2b-470d-82e6-30b61329d316,RJ/DL/2016/14122,2025-05-21T20:28:00
+337f9b9d-cfd2-4dab-b02a-a592d47c5afe,8902260951139,MonteMax 105,Montelukast + Levocetirizine (10mg/5mg Tablet),Mankind Pharma Ltd.,561e419f-26df-44e7-9088-99098624c126,TG/DL/2015/24774,2025-11-13T20:02:00
+d7b01f38-2fef-4098-8f78-c3cfec51d280,8902334315255,CiproCip 500,Ciprofloxacin Hydrochloride (500mg Tablet),GlaxoSmithKline Pharmaceuticals Ltd.,1090101c-4e71-4110-ac55-639c9f163565,KA/DL/2012/68961,2025-05-17T09:09:00
+e1fdeada-ea44-4618-8ff1-7a96dc0dcef0,8903972376374,AmoxiZen 625,Amoxicillin + Clavulanic Acid (625mg Tablet),Wockhardt Ltd.,2a7468f7-87e4-4122-85e8-29ed965a54f7,RJ/DL/2024/61871,2025-12-19T07:22:00
+8d19181e-7099-4072-8565-31771ca314ee,8901257474364,DicloZen 50,Diclofenac Sodium (50mg Tablet),Abbott India Ltd.,e2b1748d-8a39-4f96-9dc2-f22b323ead69,MH/DL/2014/31102,2025-01-28T13:11:00
+1352a451-3111-4bf6-9380-1ff41205a4ce,8903504169052,CiproWell 500,Ciprofloxacin Hydrochloride (500mg Tablet),Alembic Pharmaceuticals Ltd.,9e432bc2-e1d4-49dd-8e4f-f7a9ce132a71,UP/DL/2019/39641,2025-02-10T14:28:00
+6704ea55-4347-455c-a1db-6eac46c0ee3f,8905936743689,TelmiTas 40,Telmisartan (40mg Tablet),Zydus Lifesciences Ltd.,adc72991-8c10-4f7c-9927-ae89297b7174,MP/DL/2020/76245,2025-07-24T11:31:00
+f6819c90-2706-48cd-9132-45ba8b1d04ca,8905140837385,AmbroSafe 60,"Ambroxol + Cetirizine (Syrup, 60ml)",J.B. Chemicals & Pharmaceuticals Ltd.,bd810d11-d8d5-4d57-acad-03bed4c4a72e,TN/DL/2014/61959,2025-06-23T13:18:00
+87c231b0-6dff-4f4d-b132-5b88a95429fe,8902993146925,OralWell 218,Oral Rehydration Salts (21.8g Sachet),Wockhardt Ltd.,2a7468f7-87e4-4122-85e8-29ed965a54f7,DL/DL/2013/13025,2025-06-06T16:58:00
+db53b7ae-bfbf-4a87-888e-509bf1fed3ff,8902623846571,MontePro 105,Montelukast + Levocetirizine (10mg/5mg Tablet),Zydus Lifesciences Ltd.,adc72991-8c10-4f7c-9927-ae89297b7174,PB/DL/2017/21951,2025-02-26T15:24:00
+6b46d809-e815-4197-815a-f4d6e0ad4aed,8901247814274,CholePro 600,Cholecalciferol (Vitamin D3) (60000 IU Sachet),Dr. Reddy's Laboratories Ltd.,37481ea9-0e75-43d4-bc2e-e6009256b9eb,WB/DL/2023/63355,2025-09-18T09:10:00
+377791c4-277d-47aa-be88-85492e5dbd53,8909640162122,FerroGen,Ferrous Ascorbate + Folic Acid (Tablet),Indoco Remedies Ltd.,d757e044-af87-4bdf-8042-368cde4577ec,AP/DL/2019/24253,2025-03-20T20:14:00
+37397add-d1c1-4d97-8541-d58257333746,8903453348821,AzithZen 500,Azithromycin (500mg Tablet),Wockhardt Ltd.,2a7468f7-87e4-4122-85e8-29ed965a54f7,HR/DL/2016/24738,2025-12-12T10:01:00
+9f801963-08bf-4a62-aba8-20d7e3e76e6c,8902374543839,CephaCip 500,Cephalexin (500mg Capsule),Piramal Pharma Ltd.,33bc0a94-b51a-417a-8747-a03a167f18d8,RJ/DL/2020/67711,2025-05-08T10:15:00
+983e0955-21c7-4d47-875e-9e6f80ed5fb6,8906686825167,GlimeMax 2,Glimepiride (2mg Tablet),GlaxoSmithKline Pharmaceuticals Ltd.,1090101c-4e71-4110-ac55-639c9f163565,HR/DL/2023/75089,2025-06-05T06:00:00
+07b23b1e-d170-4130-901e-52a81c4ec2c4,8901179453447,OfloxRx 200,Ofloxacin (200mg Tablet),J.B. Chemicals & Pharmaceuticals Ltd.,bd810d11-d8d5-4d57-acad-03bed4c4a72e,HR/DL/2014/30167,2025-09-28T07:07:00
+d8410edb-6950-4397-9487-3e9e487349bb,8907877908912,LevocPlus 5,Levocetirizine Dihydrochloride (5mg Tablet),Intas Pharmaceuticals Ltd.,654dea04-d1d4-4a7e-9d01-ce540d2b6aac,GJ/DL/2023/15939,2025-01-26T10:07:00
+64196342-4742-439c-a20f-0dad467347b7,8908673062232,MetfoCip 500,Metformin Hydrochloride (500mg Tablet),Piramal Pharma Ltd.,33bc0a94-b51a-417a-8747-a03a167f18d8,TG/DL/2015/80429,2025-10-25T18:40:00
+75a394d9-0903-4e60-974d-2346a66ce3f5,8909044851939,MontePlus 105,Montelukast + Levocetirizine (10mg/5mg Tablet),Piramal Pharma Ltd.,33bc0a94-b51a-417a-8747-a03a167f18d8,UP/DL/2025/70967,2025-12-15T14:14:00
+7ef6d461-dc5c-4a02-a605-b3fb3d52d6d3,8902822344786,RabepGen 20,Rabeprazole Sodium (20mg Tablet),Abbott India Ltd.,e2b1748d-8a39-4f96-9dc2-f22b323ead69,UP/DL/2017/63390,2025-08-27T07:00:00
+0ca15a91-9be6-4bff-8a91-4fdf68b84f91,8900138357454,CiproPro 500,Ciprofloxacin Hydrochloride (500mg Tablet),Micro Labs Ltd.,cca5ab25-2d2b-470d-82e6-30b61329d316,PB/DL/2014/50064,2025-12-21T07:57:00
+56e07d68-95d3-469e-b077-5e3e45925ffa,8900627956866,FerroCip,Ferrous Ascorbate + Folic Acid (Tablet),Biocon Ltd.,ae0d6b00-5002-4238-a54b-b691292655ff,KL/DL/2018/28542,2025-09-05T09:13:00
+7ed9a889-f80d-4fdf-ab61-c2202b1d0b7b,8904772360610,AmbroVita 60,"Ambroxol + Cetirizine (Syrup, 60ml)",Glenmark Pharmaceuticals Ltd.,f3b10dbd-dc3a-4f40-a4cc-4fa0a180b9ca,KA/DL/2016/65647,2025-12-15T11:06:00
+c66c2bd5-891c-4422-93f0-0d51a814f0c8,8908660480376,ParacZen 650,Paracetamol (650mg Tablet),Ipca Laboratories Ltd.,7ebaa025-6f09-413c-a126-597e272c1ef3,BR/DL/2017/41457,2025-04-25T07:59:00
+0ef64929-9b06-4405-9a33-ad73d3c89745,8908336324249,FerroWell,Ferrous Ascorbate + Folic Acid (Tablet),GlaxoSmithKline Pharmaceuticals Ltd.,1090101c-4e71-4110-ac55-639c9f163565,HR/DL/2022/62885,2025-07-02T09:42:00
+0e2ca4e4-ad34-450c-9b10-ef27780a06e8,8901396005660,AmbroWell 60,"Ambroxol + Cetirizine (Syrup, 60ml)",Torrent Pharmaceuticals Ltd.,7c2b53a1-a1bd-4416-9f60-66992b433194,KL/DL/2016/92796,2025-11-07T13:05:00
+2c47a20e-c231-4fc7-8c34-3090c5ee6ef8,8901522284492,AtorvTas 10,Atorvastatin Calcium (10mg Tablet),Cipla Ltd.,df67d6c5-2638-454d-b429-fdb7e4ea662b,KL/DL/2015/77509,2025-10-21T13:31:00
+1611b4bf-2217-42af-af9e-74b7425d723e,8905074921237,IbuprCure 400,Ibuprofen (400mg Tablet),Cipla Ltd.,df67d6c5-2638-454d-b429-fdb7e4ea662b,AP/DL/2017/29549,2025-08-28T19:21:00
+2c3bdac3-0187-42e8-b907-64a7c4e51730,8905651807948,AmbroPlus 60,"Ambroxol + Cetirizine (Syrup, 60ml)",Sun Pharmaceutical Industries Ltd.,250bd61a-1633-44d4-8aa7-b033fbe874f6,RJ/DL/2021/81561,2025-11-15T14:52:00
+6b2a7bef-68be-46d0-8bb3-e2e7a1bce6b9,8904275270366,MetopCip 25,Metoprolol Succinate (ER) (25mg Tablet),Alembic Pharmaceuticals Ltd.,9e432bc2-e1d4-49dd-8e4f-f7a9ce132a71,BR/DL/2025/96044,2025-03-01T15:55:00
+669b4252-bf9b-463a-8a85-c520bc465d29,8903635461183,TelmiSafe 40,Telmisartan (40mg Tablet),Sun Pharmaceutical Industries Ltd.,250bd61a-1633-44d4-8aa7-b033fbe874f6,TN/DL/2025/76943,2025-06-11T15:38:00
+3e25436c-3bc4-49bc-9782-ff401e0b17d6,8904347358756,CholeRx 600,Cholecalciferol (Vitamin D3) (60000 IU Sachet),Abbott India Ltd.,e2b1748d-8a39-4f96-9dc2-f22b323ead69,BR/DL/2017/29929,2025-09-18T08:54:00
+87977076-2836-44d6-bfcc-099ead98c45e,8902457859302,GlimeGen 2,Glimepiride (2mg Tablet),Dr. Reddy's Laboratories Ltd.,37481ea9-0e75-43d4-bc2e-e6009256b9eb,WB/DL/2018/33707,2025-11-15T19:52:00
+2b81ff1b-0224-40ab-a05f-15f3870006aa,8901795675954,ParacRx 500,Paracetamol (500mg Tablet),Aurobindo Pharma Ltd.,44e34345-744f-4918-8e95-e4e1b70f306d,UP/DL/2012/15616,2025-02-08T18:46:00
+94269e80-3d08-4a0b-b24c-9a63b0617621,8907281013737,MultiKind,Multivitamin + Multimineral (Tablet),Micro Labs Ltd.,cca5ab25-2d2b-470d-82e6-30b61329d316,RJ/DL/2013/51275,2025-03-21T08:11:00
+e7a7a681-8882-4974-86af-51800bbb2c64,8907345735765,MonteGen 105,Montelukast + Levocetirizine (10mg/5mg Tablet),Wockhardt Ltd.,2a7468f7-87e4-4122-85e8-29ed965a54f7,TG/DL/2016/15932,2025-09-13T11:27:00
+1d859179-c0b7-455a-bfba-d4cad9d529ee,8908773619281,PantoKind 40,Pantoprazole (40mg Tablet),Ajanta Pharma Ltd.,986b9464-8658-496f-a682-4a9b7cc039ef,HR/DL/2015/83582,2025-08-27T13:28:00
+3e49e4db-6838-4ab4-86e8-b8fbafc5fc0b,8909776485357,GlimeTas 2,Glimepiride (2mg Tablet),Zydus Lifesciences Ltd.,adc72991-8c10-4f7c-9927-ae89297b7174,GJ/DL/2016/63776,2025-03-07T17:47:00
+5b559f36-0537-489f-993a-24a47e7aaeca,8901880806979,DoxycTas 100,Doxycycline Hyclate (100mg Capsule),Lupin Ltd.,9fc351bd-c7f4-4512-bac1-59b045c4c75d,MH/DL/2012/94160,2025-11-05T09:17:00
+2c699a86-7d33-4fec-a808-8294968e909d,8902447939089,MonteCip 105,Montelukast + Levocetirizine (10mg/5mg Tablet),Torrent Pharmaceuticals Ltd.,7c2b53a1-a1bd-4416-9f60-66992b433194,GJ/DL/2014/58479,2025-05-05T15:09:00
+6bf0016a-00c1-49a8-a52c-f15dbcdae99c,8902527998151,RabepCip 20,Rabeprazole Sodium (20mg Tablet),Ipca Laboratories Ltd.,7ebaa025-6f09-413c-a126-597e272c1ef3,TN/DL/2014/76940,2025-04-06T06:35:00
+be143503-0423-40c2-9d3d-fa480a8e3c7e,8901228543833,OndanPro 4,Ondansetron (4mg Tablet),Lupin Ltd.,9fc351bd-c7f4-4512-bac1-59b045c4c75d,WB/DL/2025/45519,2025-07-19T17:47:00
+39a9b908-3531-4c76-8738-8ef4954fde7a,8909430944205,LevocSafe 5,Levocetirizine Dihydrochloride (5mg Tablet),Alembic Pharmaceuticals Ltd.,9e432bc2-e1d4-49dd-8e4f-f7a9ce132a71,MH/DL/2014/35329,2025-11-17T07:10:00
+8ea5488c-971f-48d0-b1e2-2b126ba27c06,8908428361777,MetfoCare 500,Metformin Hydrochloride (500mg Tablet),Alembic Pharmaceuticals Ltd.,9e432bc2-e1d4-49dd-8e4f-f7a9ce132a71,GJ/DL/2017/10263,2025-07-18T19:42:00
+f668deeb-0256-4e2c-bcca-8f1bc7c24733,8906418238378,PantoRx 40,Pantoprazole (40mg Tablet),Sun Pharmaceutical Industries Ltd.,250bd61a-1633-44d4-8aa7-b033fbe874f6,WB/DL/2020/85792,2025-04-07T07:51:00
+a6a86e98-d4c8-417e-81ba-034190016d38,8905601284237,LevocGen 5,Levocetirizine Dihydrochloride (5mg Tablet),Dr. Reddy's Laboratories Ltd.,37481ea9-0e75-43d4-bc2e-e6009256b9eb,UP/DL/2017/46781,2025-08-19T07:33:00
+b9ba7e36-ab31-4b5f-94d8-520098194e4e,8909352684043,GlimePro 2,Glimepiride (2mg Tablet),Zydus Lifesciences Ltd.,adc72991-8c10-4f7c-9927-ae89297b7174,WB/DL/2015/58058,2025-06-28T07:47:00
+58fd8aa3-7b63-4c80-8ca5-9663aab1acb1,8907005083373,MonteCare 105,Montelukast + Levocetirizine (10mg/5mg Tablet),Ipca Laboratories Ltd.,7ebaa025-6f09-413c-a126-597e272c1ef3,MP/DL/2025/25886,2025-01-22T14:23:00
+70310c30-e782-4dad-97bf-592709759c61,8908884408084,OmeprMax 20,Omeprazole (20mg Capsule),Marksans Pharma Ltd.,4c3e4b54-ef52-4f08-a67a-68420eeef1e8,TN/DL/2012/73181,2025-10-27T07:56:00
+8bfa93a5-e450-4d11-a32a-7d6a27cd8fb0,8900577768900,CephaPlus 500,Cephalexin (500mg Capsule),Natco Pharma Ltd.,ec132e5f-04a1-4fde-973b-3992181d7055,AP/DL/2012/84300,2025-04-28T14:42:00
+cbdd320d-e28b-4251-8822-b634499c73a1,8906712472899,TelmiWell 40,Telmisartan (40mg Tablet),Mankind Pharma Ltd.,561e419f-26df-44e7-9088-99098624c126,PB/DL/2012/14963,2025-09-18T16:03:00
+cd096511-0a77-41d6-8486-580f1e13f501,8901506705318,AceclCare 100,Aceclofenac (100mg Tablet),Natco Pharma Ltd.,ec132e5f-04a1-4fde-973b-3992181d7055,MH/DL/2021/33347,2025-03-25T09:35:00
+06c45856-be31-4c89-bbb5-9759dcc523b4,8901264866977,OmeprVita 20,Omeprazole (20mg Capsule),Emcure Pharmaceuticals Ltd.,a804192a-37f9-4d13-a58a-4e97055a0fc6,DL/DL/2014/43379,2025-09-06T10:56:00
+2898d3ad-0e6f-45c0-ac5d-9653af03d6fd,8904942727187,MonteCure 105,Montelukast + Levocetirizine (10mg/5mg Tablet),Biocon Ltd.,ae0d6b00-5002-4238-a54b-b691292655ff,MP/DL/2024/42815,2025-11-03T07:00:00
+d126e345-b884-463e-9d67-6d9f2d372d9d,8904047855131,DompeHeal 10,Domperidone (10mg Tablet),Alembic Pharmaceuticals Ltd.,9e432bc2-e1d4-49dd-8e4f-f7a9ce132a71,BR/DL/2018/46075,2025-12-08T08:44:00
+301ce640-ac2b-4ca7-98aa-ddde2d793660,8900869910602,MonteVita 105,Montelukast + Levocetirizine (10mg/5mg Tablet),Emcure Pharmaceuticals Ltd.,a804192a-37f9-4d13-a58a-4e97055a0fc6,MH/DL/2025/21457,2025-02-20T10:47:00
+866b7d90-3b50-4d3f-9e39-ec7e99013e98,8909971261294,RabepVita 20,Rabeprazole Sodium (20mg Tablet),Zydus Lifesciences Ltd.,adc72991-8c10-4f7c-9927-ae89297b7174,TG/DL/2020/55884,2025-01-15T14:19:00
+f2ebeee9-390b-4ccf-817a-832fe242683a,8904998340203,AtorvPro 10,Atorvastatin Calcium (10mg Tablet),Lupin Ltd.,9fc351bd-c7f4-4512-bac1-59b045c4c75d,MH/DL/2021/60689,2025-01-06T20:05:00
+bf3da549-7e03-4928-92b1-1c2aad87385c,8904313264691,OfloxVita 200,Ofloxacin (200mg Tablet),Alembic Pharmaceuticals Ltd.,9e432bc2-e1d4-49dd-8e4f-f7a9ce132a71,KA/DL/2023/92489,2025-04-16T07:33:00
+0e821dc7-3a27-4237-80ef-5e31bb00152a,8902183033258,OndanZen 4,Ondansetron (4mg Tablet),J.B. Chemicals & Pharmaceuticals Ltd.,bd810d11-d8d5-4d57-acad-03bed4c4a72e,PB/DL/2013/76694,2025-06-03T06:36:00
+7f86172f-8b63-41dd-8b04-9e070fed66a5,8905027043841,CetirCare 10,Cetirizine Hydrochloride (10mg Tablet),Natco Pharma Ltd.,ec132e5f-04a1-4fde-973b-3992181d7055,KA/DL/2022/15835,2025-03-06T16:20:00
+34312cc6-3e0c-4a98-a7d6-58efc6350e7f,8909808947427,CefixCure 200,Cefixime (200mg Tablet),Micro Labs Ltd.,cca5ab25-2d2b-470d-82e6-30b61329d316,UP/DL/2022/14705,2025-12-09T12:25:00
+f84ee975-cbf9-4951-a2d2-53947590341e,8906837996942,MultiVita,Multivitamin + Multimineral (Tablet),Natco Pharma Ltd.,ec132e5f-04a1-4fde-973b-3992181d7055,PB/DL/2024/43332,2025-09-22T08:36:00
+e743e411-2f77-4f79-a360-d5b3bf2d72cc,8909873411325,CephaVita 500,Cephalexin (500mg Capsule),Eris Lifesciences Ltd.,ab29dcbb-a8d5-4ca6-96b5-969fd507bb05,WB/DL/2019/87001,2025-09-23T12:29:00
+e3c9283e-edf3-4a33-919e-f73a90297b75,8908738948771,LevocTas 5,Levocetirizine Dihydrochloride (5mg Tablet),Abbott India Ltd.,e2b1748d-8a39-4f96-9dc2-f22b323ead69,RJ/DL/2016/25830,2025-02-05T06:29:00
+72b9eb55-ab2d-40ea-95e4-0d646755df2c,8905733061710,OndanCip 4,Ondansetron (4mg Tablet),Abbott India Ltd.,e2b1748d-8a39-4f96-9dc2-f22b323ead69,MH/DL/2024/94104,2025-05-09T09:49:00
+4bbe7c0c-22df-4494-858a-51917f63a977,8901636102071,MetopPro 25,Metoprolol Succinate (ER) (25mg Tablet),Mankind Pharma Ltd.,561e419f-26df-44e7-9088-99098624c126,UP/DL/2017/22299,2025-12-02T15:03:00
+4775f3da-fc79-43ab-b1e6-10eda6fc56b8,8901034230701,AmbroHeal 60,"Ambroxol + Cetirizine (Syrup, 60ml)",Abbott India Ltd.,e2b1748d-8a39-4f96-9dc2-f22b323ead69,PB/DL/2021/95975,2025-11-07T07:08:00
+b6715153-7ee4-470b-aee7-31d06a771d95,8905067392604,FerroCure,Ferrous Ascorbate + Folic Acid (Tablet),Intas Pharmaceuticals Ltd.,654dea04-d1d4-4a7e-9d01-ce540d2b6aac,MP/DL/2014/36308,2025-12-20T11:05:00
+66aac661-e003-4c1d-a448-c11dbb1b3f07,8908794237475,AmoxiHeal 625,Amoxicillin + Clavulanic Acid (625mg Tablet),Wockhardt Ltd.,2a7468f7-87e4-4122-85e8-29ed965a54f7,MH/DL/2017/90361,2025-03-11T10:22:00
+674508b5-7d97-4d57-95af-70d057b16d2a,8904477882870,LevocKind 5,Levocetirizine Dihydrochloride (5mg Tablet),Indoco Remedies Ltd.,d757e044-af87-4bdf-8042-368cde4577ec,TN/DL/2018/67551,2025-03-20T06:54:00
+04ff08f3-10b8-4d41-9b38-e9b9b4e758b8,8907684236474,RabepKind 20,Rabeprazole Sodium (20mg Tablet),Dr. Reddy's Laboratories Ltd.,37481ea9-0e75-43d4-bc2e-e6009256b9eb,PB/DL/2022/45049,2025-09-28T07:59:00
+4054bfff-57cb-40ec-a67f-2acf5f7ed99b,8908141881974,AmlodCure 5,Amlodipine Besylate (5mg Tablet),FDC Ltd.,b6189ee4-527f-44c6-8f19-80f0406eae39,RJ/DL/2014/57954,2025-09-26T16:36:00
+3267f62e-d7c5-495c-b023-56b956a772de,8903330584397,AzithTas 500,Azithromycin (500mg Tablet),Wockhardt Ltd.,2a7468f7-87e4-4122-85e8-29ed965a54f7,AP/DL/2013/47333,2025-07-19T18:15:00
+a77e018f-678a-4751-9d07-32fa313c1bfe,8907973860299,LevocPro 5,Levocetirizine Dihydrochloride (5mg Tablet),USV Pvt. Ltd.,6ac1f6be-9a1e-4b53-93e7-03279f20b30c,RJ/DL/2023/19761,2025-05-10T18:17:00
+f0fad8b9-8666-493b-8785-0691ae20cf40,8901475352413,ParacCure 500,Paracetamol (500mg Tablet),Eris Lifesciences Ltd.,ab29dcbb-a8d5-4ca6-96b5-969fd507bb05,DL/DL/2019/40669,2025-08-12T13:00:00
+39eb062a-a2f3-491d-bcce-ceeb2e978d33,8906047361152,CetirWell 10,Cetirizine Hydrochloride (10mg Tablet),Piramal Pharma Ltd.,33bc0a94-b51a-417a-8747-a03a167f18d8,KL/DL/2022/53627,2025-12-08T17:54:00
+dff67602-4eed-40c3-a8c6-669a97491e77,8903077944551,OfloxHeal 200,Ofloxacin (200mg Tablet),Ipca Laboratories Ltd.,7ebaa025-6f09-413c-a126-597e272c1ef3,AP/DL/2018/37488,2025-04-07T12:42:00
+0f0cac22-367a-4f21-98e8-ec5ff5d28681,8905929968825,RabepPlus 20,Rabeprazole Sodium (20mg Tablet),Glenmark Pharmaceuticals Ltd.,f3b10dbd-dc3a-4f40-a4cc-4fa0a180b9ca,TN/DL/2024/57573,2025-08-21T20:36:00
+643354fa-04ec-4e4a-a751-ddd24d56c48b,8900523898688,CholeZen 600,Cholecalciferol (Vitamin D3) (60000 IU Sachet),Suraksha Pharmaceuticals Ltd.,faca85fd-0544-4e4b-bef3-b8fecbde3de2,MH/DL/2023/12232,2025-10-06T15:26:00
+142497b5-d39b-451c-a1b1-b5216c1138c0,8900393794873,AtorvHeal 10,Atorvastatin Calcium (10mg Tablet),Vishwas Healthcare Pvt. Ltd.,8d2afa27-b05e-443f-b9d6-683d2423b743,MP/DL/2014/42409,2025-02-08T17:48:00
+14c277bf-4a6d-42c8-a591-dd73c331ae7a,8906961658051,MetopSafe 25,Metoprolol Succinate (ER) (25mg Tablet),Punarnava Life Sciences Ltd.,b526b601-e229-442b-815f-d239259218fc,MP/DL/2012/90135,2025-11-07T12:08:00
+cf261ca6-20f4-41d4-bf57-70a5fa420fbb,8901213895693,MetopKind 25,Metoprolol Succinate (ER) (25mg Tablet),Nirmala Biotech Pvt. Ltd.,2732a0dc-3b58-4e75-ae06-4ebddc4479bc,WB/DL/2019/35019,2025-03-20T10:52:00
+5c189b36-2d3c-42e2-b823-97ac00f1a6eb,8904637300828,MetopGen 25,Metoprolol Succinate (ER) (25mg Tablet),Meridian Formulations Pvt. Ltd.,1356a3c0-2eac-476d-b839-b97e15f8799b,RJ/DL/2018/15239,2025-08-09T14:50:00
+3db994e4-eabb-4c02-810f-0176ec60cb5a,8901550734699,IbuprPlus 400,Ibuprofen (400mg Tablet),Kalash Biotech Ltd.,ff0f6ce7-f47b-4bde-994c-7f0d49ec455c,MP/DL/2012/16973,2025-10-17T07:06:00
+fb123585-07c6-4752-9409-8de07d0f1933,8900811342280,OmeprHeal 20,Omeprazole (20mg Capsule),Girivan Pharmaceuticals Pvt. Ltd.,b0b44ddf-9cf9-42fe-8cad-d4d4007223f8,HR/DL/2014/43965,2025-11-19T06:18:00
+bb949ac5-ebf5-4eb3-9346-40b85112babb,8907651954380,CiproCure 500,Ciprofloxacin Hydrochloride (500mg Tablet),Bhoomi Remedies Pvt. Ltd.,21ceaecd-f3cc-457a-ac70-3a3056745570,UP/DL/2021/43693,2025-07-28T20:30:00
+575dc8ec-fad6-43bc-b3e2-e175456c0ba2,8909077773430,MetfoGen 500,Metformin Hydrochloride (500mg Tablet),Suraksha Pharmaceuticals Ltd.,faca85fd-0544-4e4b-bef3-b8fecbde3de2,UP/DL/2018/62555,2025-05-27T20:52:00
+b7f6a94b-c2a7-4aab-b973-dcce432cf1a6,8907107974795,LosarRx 50,Losartan Potassium (50mg Tablet),Meridian Formulations Pvt. Ltd.,1356a3c0-2eac-476d-b839-b97e15f8799b,MP/DL/2023/39403,2025-11-07T12:11:00
+8637ee1a-3392-41a8-9c0e-dd045e816fee,8908995169817,CholeCip 600,Cholecalciferol (Vitamin D3) (60000 IU Sachet),Girivan Pharmaceuticals Pvt. Ltd.,b0b44ddf-9cf9-42fe-8cad-d4d4007223f8,WB/DL/2019/88969,2025-01-11T19:44:00
+ae09b6dc-3418-4c48-b4b7-539400b25d9c,8904009648411,AzithMax 500,Azithromycin (500mg Tablet),Kalash Biotech Ltd.,ff0f6ce7-f47b-4bde-994c-7f0d49ec455c,WB/DL/2012/79392,2025-11-19T11:19:00
+9d8c9860-24db-46ac-a6f9-326aca38a902,8903443533184,RabepHeal 20,Rabeprazole Sodium (20mg Tablet),Amrutha Drugs Ltd.,1fc3ea12-8219-431d-9f8b-10a1ee229de2,MP/DL/2023/89747,2025-02-19T20:34:00
+0be68336-29db-4633-bebe-94be4e327420,8907444651473,AmoxiVita 625,Amoxicillin + Clavulanic Acid (625mg Tablet),Sanjeevani Formulations Pvt. Ltd.,ee049bf8-2bf7-41d4-ac33-9e0d0998a075,DL/DL/2012/63849,2025-07-03T11:42:00
+35f0b52c-6565-4081-af0e-4470646af851,8906816703415,CetirHeal 10,Cetirizine Hydrochloride (10mg Tablet),Northstar Remedies Ltd.,2e3fed6d-7e4b-4e6d-b1b3-dc2e9154ce69,TN/DL/2025/83093,2025-02-15T18:04:00
+22dd67f5-0f56-4c89-84d2-e045f1b6e87b,8900471959291,TelmiZen 40,Telmisartan (40mg Tablet),Meridian Formulations Pvt. Ltd.,1356a3c0-2eac-476d-b839-b97e15f8799b,TG/DL/2023/51725,2025-07-11T11:05:00
+0a358c13-0e0e-4dae-b14b-524aa175772d,8907338123864,AtorvPlus 10,Atorvastatin Calcium (10mg Tablet),Kalash Biotech Ltd.,ff0f6ce7-f47b-4bde-994c-7f0d49ec455c,TN/DL/2021/41991,2025-06-02T20:27:00
+2916a731-3cde-4f02-8fe9-01371f89a0e7,8908424419897,ParacKind 500,Paracetamol (500mg Tablet),Silverline Drugs Pvt. Ltd.,647db56c-25fe-44d8-ae0f-169e0a455448,MH/DL/2012/43272,2025-01-17T12:11:00
+f00ae763-4c43-47b7-a322-915f46cf2906,8909065355911,ParacTas 650,Paracetamol (650mg Tablet),Suraksha Pharmaceuticals Ltd.,faca85fd-0544-4e4b-bef3-b8fecbde3de2,MH/DL/2018/88154,2025-03-27T12:52:00
+a88631a9-a917-47d4-b7fc-6521f9720129,8904601938622,TelmiGen 40,Telmisartan (40mg Tablet),Vishwas Healthcare Pvt. Ltd.,8d2afa27-b05e-443f-b9d6-683d2423b743,HR/DL/2019/96234,2025-10-03T17:00:00
+c146ab17-4510-4e61-a13c-e9b43d63efc0,8904147383886,AmbroPro 60,"Ambroxol + Cetirizine (Syrup, 60ml)",Northstar Remedies Ltd.,2e3fed6d-7e4b-4e6d-b1b3-dc2e9154ce69,RJ/DL/2025/35575,2025-04-05T10:34:00
+f0b44d8c-2f9d-46dc-bccf-c7d69cd2e11e,8905797726421,DoxycCare 100,Doxycycline Hyclate (100mg Capsule),Punarnava Life Sciences Ltd.,b526b601-e229-442b-815f-d239259218fc,DL/DL/2025/75712,2025-06-23T16:20:00
+d4f947dc-a13f-4404-acc2-95ebdc16d013,8906405574592,LosarPro 50,Losartan Potassium (50mg Tablet),Northstar Remedies Ltd.,2e3fed6d-7e4b-4e6d-b1b3-dc2e9154ce69,PB/DL/2023/56106,2025-10-16T16:38:00
+ee466e06-d138-4189-8f07-577987e91271,8904905010350,RabepSafe 20,Rabeprazole Sodium (20mg Tablet),Trishakti Healthcare Ltd.,564735fd-15e2-4ab1-8b03-5a862022eff2,BR/DL/2013/40333,2025-11-21T11:29:00
+1cf20a69-4a75-44e1-9ce1-4f436f3e236c,8906631628447,RabepWell 20,Rabeprazole Sodium (20mg Tablet),Sanjeevani Formulations Pvt. Ltd.,ee049bf8-2bf7-41d4-ac33-9e0d0998a075,TG/DL/2022/16186,2025-11-21T18:53:00
+ab57f3c2-58a9-4485-b2dd-cc03f511e753,8905835677909,AceclTas 100,Aceclofenac (100mg Tablet),Bhoomi Remedies Pvt. Ltd.,21ceaecd-f3cc-457a-ac70-3a3056745570,RJ/DL/2020/85651,2025-10-28T13:18:00
